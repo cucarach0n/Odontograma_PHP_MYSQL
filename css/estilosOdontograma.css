@@ -1,0 +1,75 @@
+		.desabilitado{
+			fill:black;
+			stroke:black;
+			stroke-width:1px;
+			opacity: 0.3;
+		}
+		.marcadoAzul
+		{
+			fill:none;
+			stroke:blue;
+			stroke-width:7px;
+		}
+		.marcadoVerde
+		{
+			fill:green;
+			stroke:black;
+			stroke-width:1px;
+		}
+		.marcadoMorado
+		{
+			fill:#CC66CC;
+			stroke:black;
+			stroke-width:1px;
+		}
+		.marcadoMarron{
+			fill:#CC6600;
+			stroke:black;
+			stroke-width:1px;
+		}
+		.marcadoAmarillo{
+			fill:yellow;
+			stroke:black;
+			stroke-width:1px;
+		}
+		.marcadoRojo{
+			fill:red;
+			stroke:black;
+			stroke-width:1px;
+		}
+		.marcadoNaranja{
+			fill:orange;
+			stroke:black;
+			stroke-width:1px;
+		}
+		.marcadoTomate{
+			fill:tomato;
+			stroke:black;
+			stroke-width:1px;
+		}
+		.diente{
+			fill-opacity:0;
+			stroke:black;
+			stroke-width:1px;
+		}
+		.ausente
+		{
+			fill:none;
+			opacity: 0;
+		}
+		.corona
+		{
+			fill:none;
+			opacity: 0;
+		}
+		.endodoncia
+		{
+			fill:none;
+			opacity: 0;
+		}
+
+		.implante
+		{
+			fill:none;
+			opacity: 0;
+		}

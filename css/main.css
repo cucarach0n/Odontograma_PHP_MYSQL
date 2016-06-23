@@ -1,0 +1,69 @@
+
+*{margin:0;padding:0;}:focus,:active {outline:0}ul,ol{list-style:none}h1,h2,h3,h4,h5,h6,pre,code {font-size:1em;}a img{border:0} 
+body { font: .9em Georgia, "Times New Roman", Arial, Sans-Serif; background: #E8F7FC url(../images/bg.jpg) repeat-x; color: #306172; }
+a { color: #3A65A8; text-decoration: none; }
+h1 { font-size: 2.9em; font-weight: normal; }
+h2 { float: left; text-transform: lowercase; clear: both; font-size: 2.4em; margin: 0 0 20px; font-weight: normal; color: #CB6F9C; background: url(../images/h2bg.jpg) repeat-x bottom; }
+p  { clear: both; margin: 5px 0 15px; line-height: 1.7em; }
+.clear { clear: both; }
+
+.wrap { margin: 0 auto; width: 900px; }
+#logo { margin: 40px 0 0;  }
+#cabecera
+{
+	height: 100px;
+	background: url(../images/white_bubbles.jpg) no-repeat fixed;
+}
+#detallesuser
+{
+	margin-top: 25px;
+	width: 25%;
+	float: right;
+
+}
+#detallelogo
+{
+	float: left;
+	width: 75%;
+}
+
+#menu ul
+{
+    list-style-type: none;
+    font-size: 0px;
+    
+}
+#menu
+{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#menu ul li
+{
+    display: inline-block;
+    padding: 10px;
+    margin: 0px 5px 0px 5px;
+	background-color: #50EBEC;
+    box-shadow: 0px 0px 4px #000 inset;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+}
+
+#menu ul li a
+{
+    font-size: 17px;
+    text-decoration: none;
+    font-weight: bold;
+    color: green;   
+}
+
+#text { clear: both; margin: 0 0 40px; }
+
+#green_bubble { padding: 30px 0 68px 280px; height: 30px; background: url(../images/green_bubbles.jpg) no-repeat center ; }
+#green_bubble a { color: #34AE61; font-weight: bold; margin: 0 30px 0 0; }
+#green_bubble p { margin-left: 55px; }
+#footer { padding: 85px 0 5px 0; background: #FF99CB url(../images/bottom.jpg) repeat-x; }
+#copyright { float: left; margin: 80px 0 0; color: #9D436F; font-size: .8em; }
+#copyright p { margin: 0 0 5px; }
+#copyright a { color: #60183B; }
+#bubble { float: right;  font-size: .9em; font-weight: bold; color: #D46FA0; background: url(../images/pink_bubbles.jpg) no-repeat; width: 220px; height: 145px; padding: 52px 30px 0 150px; text-align: right; }
